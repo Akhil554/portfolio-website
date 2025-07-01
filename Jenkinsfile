@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Clone Code') {
             steps {
-                git 'https://github.com/your-username/portfolio-website.git'
+                git 'https://github.com/Akhil554/portfolio-website.git'
             }
         }
 
